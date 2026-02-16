@@ -167,15 +167,4 @@ This proves KMS controls decryption separately from DynamoDB permissions.
 - How key policies translate into permissions
 - How encryption enforcement works in real scenarios
 
----
 
-# Series Completion
-
-With this project, I have completed:
-
-- VPC Networking
-- VPC Peering
-- S3 Private Access via Endpoint
-- KMS Encryption with Access Control
-
-Each project builds toward secure and production-ready AWS architecture.
